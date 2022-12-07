@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "alz"
+      "value": "alz2"
     },
     "parTopLevelManagementGroupDisplayName": {
       "value": "Azure Landing Zones"
