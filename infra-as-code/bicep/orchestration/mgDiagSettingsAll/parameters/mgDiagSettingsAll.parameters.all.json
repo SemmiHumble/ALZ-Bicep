@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "alz"
+      "value": "alz2"
     },
     "parLandingZoneMgAlzDefaultsEnable": {
       "value": true
@@ -12,7 +12,7 @@
       "value": false
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourcegroups/alz-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/e2a18bd5-2b16-4810-ab96-0ffe874b6913/resourcegroups/rg-alz2-logging-001/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
     },
     "parLandingZoneMgChildren": {
       "value": []
