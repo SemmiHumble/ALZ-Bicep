@@ -12,10 +12,10 @@
             "value": ""
         },
         "parSpokeNetworkAddressPrefix": {
-            "value": "10.11.0.0/16"
+            "value": "100.11.0.0/16"
         },
         "parSpokeNetworkName": {
-            "value": "vnet-spoke"
+            "value": "vnet-spoke2"
         },
         "parDnsServerIps": {
             "value": []
